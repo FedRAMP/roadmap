@@ -13,12 +13,6 @@ approximately every two weeks.
 The roadmap can be viewed in visual form on GitHub here:
 [https://github.com/orgs/FedRAMP/projects/25](https://github.com/orgs/FedRAMP/projects/25)
 
-Latest comment (2025-06-12):
-
-During Sprint 01, the team continued to discuss reciprocity with DISA and will
-continue discussions next sprint. There is no detailed information about this to
-make public at this time beyond the intent to establish this reciprocity. 🤞
-
 ## Changelog // 2025-06-13
 
 ### Issue [#65: Scope of FedRAMP Guidance / Technical Assistance](https://github.com/FedRAMP/roadmap/issues/65)
