@@ -13,7 +13,7 @@ approximately every two weeks.
 The roadmap can be viewed in visual form on GitHub here:
 [https://github.com/orgs/FedRAMP/projects/25](https://github.com/orgs/FedRAMP/projects/25)
 
-## Changelog // 2025-06-13
+## Updates from Delivery Sprint 1 (2025-06-02 to 2025-06-13)
 
 ### Issue [#65: Scope of FedRAMP Guidance / Technical Assistance](https://github.com/FedRAMP/roadmap/issues/65)
 
