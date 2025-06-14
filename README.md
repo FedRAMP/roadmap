@@ -7,8 +7,10 @@
 
 # FedRAMP Public Roadmap
 
-This repository tracks Issues for majority delivery activity for FedRAMP's
-high level public roadmap. The associated Public Roadmap project board provides
+This repository tracks Issues for majority delivery activity* for FedRAMP's
+high level public roadmap. 
+
+The associated Public Roadmap project board provides
 different views for understanding priorities and activity:
 
 - [The Roadmap View](https://github.com/orgs/FedRAMP/projects/25/views/1) is a
@@ -26,14 +28,19 @@ To see how things progress and change over time without a complicated view,
 you can instead just [catch up on our Progress Updates from each 
 sprint](PROGRESS.md).
 
+_* Items that appear on our public roadmap are one-time activities that 
+require a minimum of many days of work for multiple staff members. This 
+roadmap does NOT include most internal government activities even though
+a significant amount of FedRAMP's work involves such activities._ 
+
 ---
 ## How FedRAMP Delivers
 
-We have three cross-functional teams that each has primary areas of focus
-for both operational areas of focus and delivery. Large scale delivery tasks
-often flow between teams and coordination across all teams is critical for
-success. We are currently organizing work around short delivery sprints 
-mapped to goals and deliverables on our working roadmap.
+We have three cross-functional teams with different focus areas for both
+operational and delivery activities. Large scale delivery tasks often flow 
+between teams and coordination across all teams is critical for success. We
+are currently organizing work around sprints mapped to goals and 
+deliverables on our working roadmap.
 
 ![FedRAMP's three teams: Protocol, Bastion, and Vanguard](https://github.com/user-attachments/assets/7b98850a-00ae-47de-b7df-9ec5b06509cd)
 
