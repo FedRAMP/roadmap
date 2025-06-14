@@ -38,9 +38,9 @@ mapped to goals and deliverables on our working roadmap.
 ![FedRAMP's three teams: Protocol, Bastion, and Vanguard](https://github.com/user-attachments/assets/7b98850a-00ae-47de-b7df-9ec5b06509cd)
 
 - **Protocol** is responsible for oversight of the entire team's work, setting
-  strategy, coordinating with stakeholders, and delivering updated FedRAMP
-  requirements. This team has **8** individuals, including the Director and
-  Security Director.
+  strategy, building 20x, coordinating with stakeholders, and delivering
+  updated FedRAMP requirements. This team has **8** individuals, including the
+  Director and Security Director.
 
 - **Bastion** focuses on Rev5, including legacy agency authorizations,
   balancing Rev5 against 20x, handling most incoming info@ requests and
