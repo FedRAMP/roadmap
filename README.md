@@ -1,16 +1,16 @@
 ![FedRAMP Public Roadmap](https://github.com/user-attachments/assets/3d70192d-1db3-4fd2-9a18-f369a697aa26)
 
 
-This repository tracks **significant
-[one-time activities](https://github.com/FedRAMP/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Aupdated-desc)**
-for FedRAMP that are planned, in progress, or recently completed.
+### This repository tracks **significant [one-time activities](https://github.com/FedRAMP/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Aupdated-desc)** for FedRAMP that are planned, in progress, or recently completed.
+
 
 - The
-  [Public Roadmap project board](https://github.com/orgs/FedRAMP/projects/25/views/1)
+  [**Public Roadmap project board**](https://github.com/orgs/FedRAMP/projects/25/views/1)
   shows a traditional roadmap view of these activities grouped by major
   initiative over time.
 
-- Updates after each sprint are also available in [PROGRESS.md](PROGRESS.md).
+- Updates after each sprint are also available in [**PROGRESS.md**](PROGRESS.md).
+
 
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is
