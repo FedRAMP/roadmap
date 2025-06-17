@@ -1,4 +1,5 @@
-# FedRAMP Public Roadmap
+![FedRAMP Public Roadmap](https://github.com/user-attachments/assets/3d70192d-1db3-4fd2-9a18-f369a697aa26)
+
 
 This repository tracks **significant
 [one-time activities](https://github.com/FedRAMP/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Aupdated-desc)**
