@@ -1,5 +1,5 @@
 REPO="FedRAMP/Roadmap"
-LAST_WEEK=$(date -v-3d +%Y-%m-%d)
+LAST_WEEK=$(date -v-12d +%Y-%m-%d)
 
 echo "## Changelog // $(date '+%Y-%m-%d')"
 echo ""
