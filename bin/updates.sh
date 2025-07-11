@@ -7,13 +7,15 @@ echo ""
 # Get all issues updated in the last week
 gh issue list \
     --limit 200 \
+    --state all \
     --repo "$REPO" \
     --search "updated:>$LAST_WEEK" \
-    --json number,title,updatedAt,url \
+    --json number,title,updatedAt,url,state \
     --jq '.[]' | while read -r issue; do
     
     NUMBER=$(echo "$issue" | jq -r .number)
     TITLE=$(echo "$issue" | jq -r .title)
+    STATE=$(echo "$issue" | jq -r .state)
     URL=$(echo "$issue" | jq -r .url)
         # Get the most recent comment for each issue
     COMMENT=$(gh issue view "$NUMBER" \
@@ -25,7 +27,7 @@ gh issue list \
         BODY=$(printf '%s\n' "$COMMENT" | jq -r .body)
         CREATED=$(printf '%s\n' "$COMMENT" | jq -r .created | cut -dT -f1)
         
-        echo "### Issue [#$NUMBER: $TITLE]($URL)"
+        echo "### $STATE Issue [#$NUMBER: $TITLE]($URL)"
         echo ""
         echo "Latest comment ($CREATED):"
         echo ""
