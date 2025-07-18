@@ -1,16 +1,14 @@
 ![FedRAMP Public Roadmap](https://github.com/user-attachments/assets/3d70192d-1db3-4fd2-9a18-f369a697aa26)
 
-
 ### This repository tracks **significant [one-time activities](https://github.com/FedRAMP/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Aupdated-desc)** for FedRAMP that are planned, in progress, or recently completed.
-
 
 - The
   [**Public Roadmap project board**](https://github.com/orgs/FedRAMP/projects/25/views/1)
   shows a traditional roadmap view of these activities grouped by major
   initiative over time.
 
-- Updates after each sprint are also available in [**PROGRESS.md**](PROGRESS.md).
-
+- Updates after each sprint are also available in
+  [**PROGRESS.md**](PROGRESS.md).
 
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is
@@ -34,9 +32,10 @@ working roadmap.
 ![FedRAMP's three teams: Protocol, Bastion, and Vanguard](https://github.com/user-attachments/assets/7b98850a-00ae-47de-b7df-9ec5b06509cd)
 
 - **Protocol** is responsible for oversight of the entire team's work, setting
-  strategy, building 20x, coordinating with stakeholders, and delivering updated
-  FedRAMP requirements. This team has **5** individuals, including the Director
-  and Security Director.
+  strategy, building 20x, external communications, coordinating with
+  stakeholders, improving the website, and delivering updated FedRAMP
+  requirements. This team has **5** individuals, including the Director and
+  Security Director.
 
 - **Bastion** focuses on Rev5, including legacy agency authorizations, balancing
   Rev5 against 20x, handling most incoming info@ requests and package requests,

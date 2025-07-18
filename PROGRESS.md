@@ -2,6 +2,177 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 04 (2025-07-07 to 2025-07-18)
+
+Sprint 04 ended with some big wins but also some clear delays as we've started to move and shift expected timelines to account for our reduced front office. On the bright side, Sprint 04 ended with authorization to recruit some internal and contract staff to offset the unexpected attrition.
+
+### OPEN Issue [#72: FedRAMP Special Vulnerability Management Event](https://github.com/FedRAMP/roadmap/issues/72)
+
+Latest comment (2025-07-18):
+
+We've reached out to a few folks about this and are expecting to announce more details next week!
+
+### OPEN Issue [#71: BSA Sync on RFC-0012 (Pete/Nicole, July 28)](https://github.com/FedRAMP/roadmap/issues/71)
+
+Latest comment (2025-07-18):
+
+This community outreach session for July 28 has been tentatively scheduled.
+
+### OPEN Issue [#70: CSP-AB Sync On RFC-0012 (Pete, July 29)](https://github.com/FedRAMP/roadmap/issues/70)
+
+Latest comment (2025-07-18):
+
+This community outreach session has been confirmed.
+
+### CLOSED Issue [#69: GovCIO Federal IT Efficiency Summit / Flywheel Awards (Pete)](https://github.com/FedRAMP/roadmap/issues/69)
+
+Latest comment (2025-07-12):
+
+FedRAMP was the recipient of Innovation Champion reward! You can read more about the award and event here: https://govciomedia.com/events/archive/federal-it-efficiency-summit-recap-2025/
+
+### CLOSED Issue [#66: FRMR - Machine-Readable Requirements & Information](https://github.com/FedRAMP/roadmap/issues/66)
+
+Latest comment (2025-07-18):
+
+We will continue to add FRMR documents as they are finalized - so far the feedback has been mild but positive, and no one is particularly upset about the simple nature of our new documents not having fancy letterheads/etc. ;) Sufficient work has been done on this roadmap item to move it into standard operational procedure moving forward.
+
+### OPEN Issue [#65: Scope of FedRAMP Guidance / Technical Assistance](https://github.com/FedRAMP/roadmap/issues/65)
+
+Latest comment (2025-07-12):
+
+The "final draft" for the updated guidance on the Scope of FedRAMP required by M-24-15 has been sent to OMB for final review.
+
+### OPEN Issue [#64: Federal Information Technical Assistance](https://github.com/FedRAMP/roadmap/issues/64)
+
+Latest comment (2025-07-18):
+
+Due to other shifting priorities and general related issues, this draft technical assistance hasn't move forward in the past three weeks. I'm shifting the likely the delivery date and will look to rebuild some momentum on this during the next sprint.
+
+### CLOSED Issue [#60: Paramify Podcast 20x Roundtable (Pete, June 30)](https://github.com/FedRAMP/roadmap/issues/60)
+
+Latest comment (2025-07-18):
+
+Folks can find this podcast in their favorite podcast app or watch it on youtube here: https://www.youtube.com/watch?v=hy6wdXmfqS8
+
+### CLOSED Issue [#49: Marketplace Data Standard](https://github.com/FedRAMP/roadmap/issues/49)
+
+Latest comment (2025-07-18):
+
+The planned Marketplace Data Standard will now be integrated into the Authorization Data Sharing Standard (#13), and initially simplified. As such I'm resetting the timeline for this and closing this issue as delivered (even though the ADS Standard isn't fully delivered, the fact that we've chosen to integrate kinda counts?).
+
+### OPEN Issue [#48: Major redesign of marketplace](https://github.com/FedRAMP/roadmap/issues/48)
+
+Latest comment (2025-07-18):
+
+Based on changes in staffing, I'm moving this out to Aug - Sep. We may be filling out our web dev team with some more full time folks soon to hopefully build up a bit more consistency here. 🤞 
+
+### OPEN Issue [#47: Major redesign of fedramp.gov](https://github.com/FedRAMP/roadmap/issues/47)
+
+Latest comment (2025-07-18):
+
+This isn't quite ready for release yet but it's getting close! Our part time web devs are doing a great job, and I even jumped in a bit myself this week to help with some server hooks to redirect archived pages. I'm moving the target end date to July 31 and we'll keep plugging away.
+
+### OPEN Issue [#43: Recommended Secure Configuration Standard](https://github.com/FedRAMP/roadmap/issues/43)
+
+Latest comment (2025-07-18):
+
+Like many of the other draft standards in progress, this was impacted by unexpected staffing changes and delayed. It is a lower priority than some of the other standards at the moment, so I am moving the likely end date out quite a bit. I don't expect to post the RFC for this prior to August.
+
+### OPEN Issue [#42: Agency Reuse Playbook for 20x](https://github.com/FedRAMP/roadmap/issues/42)
+
+Latest comment (2025-07-12):
+
+The planned timeline for this has been changed to reflect changes in #32 and the planned collaboration with the new FedRAMP Board.
+
+### OPEN Issue [#41: Establish DISA ILx One Way Reciprocity](https://github.com/FedRAMP/roadmap/issues/41)
+
+Latest comment (2025-07-18):
+
+Updating the projected end date for this initiative to more realistically capture how long this might take us to implement and the likelihood of success. As this is an internal government action we won't be publishing details about the ongoing status.
+
+### OPEN Issue [#38: Continuous Vulnerability Management Standard](https://github.com/FedRAMP/roadmap/issues/38)
+
+Latest comment (2025-07-14):
+
+We have decided to integrate the Continuous Reporting Standard with plans for an updated Continuous Monitoring Performance Standard to create a single Continuous Vulnerability Management Standard.
+
+The draft Continuous Vulnerability Management Standard results from extensive internal discussion, review with stakeholders, and consideration of public comment; it simply makes the most sense to combine both the reporting requirements AND the monitoring requirements in the same standard. As such, this issue has been renamed and prioritized to continue this work, while #13 will be closed as the review of the Continuous Reporting Standard has been completed.
+
+### OPEN Issue [#37: Collaborative Continuous Monitoring Standard](https://github.com/FedRAMP/roadmap/issues/37)
+
+Latest comment (2025-07-18):
+
+The Collaborative Continuous Monitoring Standard has been re-prioritized and shifted to likely begin work in August.
+
+### OPEN Issue [#34: 20xP2 Moderate Pilot Submission and Review Window](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2025-07-18):
+
+Moving the tentative launch for Phase Two (Moderate) to October based on current progress.
+
+### OPEN Issue [#32: Agency Adoption Pilot for 20x Low](https://github.com/FedRAMP/roadmap/issues/32)
+
+Latest comment (2025-07-12):
+
+We have moved the planned start date for the Agency Adoption Pilot to the beginning of August and are expecting this activity to be predominantly sponsored by the new FedRAMP Board. 
+
+### OPEN Issue [#30: Finalize Key Security Indicators (KSIs) for FedRAMP Moderate](https://github.com/FedRAMP/roadmap/issues/30)
+
+Latest comment (2025-07-18):
+
+I'm now expecting to publish the Moderate KSIs as an RFC in early/mide August, which pushes the end date out a bit.
+
+### OPEN Issue [#28: R5.ADS Authorization Data Sharing Standard BIR](https://github.com/FedRAMP/roadmap/issues/28)
+
+Latest comment (2025-07-18):
+
+If we're able to finalize the Authorization Data Sharing Standard next sprint, I expect to immediately move to a beta test on this standard for Rev5. As soon as the ADS is posted we will include information for interested participants to sign up for the closed beta.
+
+### OPEN Issue [#23: R5.CRS Continuous Vulnerability Management Standard BIR](https://github.com/FedRAMP/roadmap/issues/23)
+
+Latest comment (2025-07-12):
+
+The Continuous Reporting Standard is now being folded into a new Continuous Vulnerability Management Standard that will require a new RFC and further adjustments. As such, this Rev5 BIR has been shifted forward to track the projected completion of the new Continuous Vulnerability Management Standard.
+
+### OPEN Issue [#19: R5.MAS Minimum Assessment Standard BIR](https://github.com/FedRAMP/roadmap/issues/19)
+
+Latest comment (2025-07-18):
+
+I'm moving consideration of the Minimum Assessment Standard BIR to September based on a continued lack of interest. We'll work with the FedRAMP Board in August or September to determine if we want to just move this into wide release as an optional approach for Rev5 Agency Authorizations and let CSPs just identify whether they are using the MAS or the legacy boundary concept.
+
+### OPEN Issue [#16: R5.SCN Significant Change Notification BIR](https://github.com/FedRAMP/roadmap/issues/16)
+
+Latest comment (2025-06-30):
+
+We now have approximately ~8 candidates who have accepted invitations to the closed beta, though we are waiting for additional information for some of those candidates and a few others. The plan currently is to begin working with closed beta participants next week to discuss the approach and their upcoming changes in more detail, then to host group discussions and align folks on best practices and lessons learned as we deliver. Stay tuned for updates in an upcoming Rev5 working group session that will hopefully include discussion with participants!
+
+### OPEN Issue [#15: 20xP1 Low Pilot Submission and Review Window](https://github.com/FedRAMP/roadmap/issues/15)
+
+Latest comment (2025-07-18):
+
+As of the end of Sprint 04, here's where we stand with the FedRAMP 20x Pilot:
+
+- 11 total 20x pilot submissions
+- 4 have been moved to In Process
+
+We'll keep moving these forward! It is likely we will close the pilot to submissions on August 15 as planned, then spend some time focusing on formalizing requirements for open submissions.
+
+### OPEN Issue [#14: Authorization Data Sharing Standard](https://github.com/FedRAMP/roadmap/issues/14)
+
+Latest comment (2025-07-18):
+
+We're about 2/3 of the way through a rewrite of this standard - it is taking longer than expected but barring the unexpected we should be able to close this up for initial pilot and beta testing at the end of next sprint.
+
+This standard is now internally designated as the Authorization Data Sharing Standard (Designator: ADS).
+
+### CLOSED Issue [#13: Continuous Reporting Standard](https://github.com/FedRAMP/roadmap/issues/13)
+
+Latest comment (2025-07-12):
+
+We have decided to integrate the Continuous Reporting Standard with plans for an updated Continuous Monitoring Performance Standard to create a single Continuous Vulnerability Management Standard. 
+
+The draft Continuous Vulnerability Management Standard results from extensive internal discussion, review with stakeholders, and consideration of public comment; it simply makes the most sense to combine both the reporting requirements AND the monitoring requirements in the same standard. As such, Issue #38 has been renamed and prioritized to continue this work, while this issue will be closed as the review of the Continuous Reporting Standard has been completed.
+
 ## Recovery Sprint (2025-06-30 to 2025-07-04)
 
 The week of July 4 was a recovery sprint for the FedRAMP team, focusing on team
