@@ -2,6 +2,97 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+
+## Sprint 05 (2025-07-21 to 2025-08-01)
+
+### OPEN Issue [#74: Federal Secure Cloud Advisory Committee (FSCAC) on POA&Ms (Public, August 14)](https://github.com/FedRAMP/roadmap/issues/74)
+
+Latest comment (2025-08-01):
+
+This meeting has been scheduled and posted to the Federal Register, announcing the first FACA meeting for calendar year 2025.
+
+### CLOSED Issue [#73: GovForward FedRAMP Board Panel (Pete, August 24)](https://github.com/FedRAMP/roadmap/issues/73)
+
+Latest comment (2025-08-01):
+
+If you missed it, you can apparently see it On Demand at the following link: https://events.govexec.com/ato-and-cloud-security-summit-2025/
+
+### CLOSED Issue [#72: FedRAMP Special Vulnerability Management Event](https://github.com/FedRAMP/roadmap/issues/72)
+
+Latest comment (2025-08-01):
+
+This event was awesome! We had a stacked panel including folks from Palo Alto Networks, Okta, Cisco, Wiz, Salesforce, GitHub, Amazon, StackArmor, UberEther, and Google. If you missed it, you can see the recording on YouTube here: https://www.youtube.com/watch?v=Z8-9Ef2cnNQ
+
+### CLOSED Issue [#71: BSA Sync on RFC-0012 (Pete/Nicole, July 28)](https://github.com/FedRAMP/roadmap/issues/71)
+
+Latest comment (2025-08-01):
+
+We had an excellent discussion focused on RFC-0012 and the potential impact for Rev5 cloud service providers.
+
+### CLOSED Issue [#70: CSP-AB Sync On RFC-0012 (Pete, July 29)](https://github.com/FedRAMP/roadmap/issues/70)
+
+Latest comment (2025-08-01):
+
+We had an excellent discussion focused on RFC-0012 and the potential impact for Rev5 cloud service providers with CSP-AB too!
+
+### CLOSED Issue [#67: [Gov Only] FFIEC IT Conference (Hoesing/Nicole, July 29)](https://github.com/FedRAMP/roadmap/issues/67)
+
+Latest comment (2025-08-01):
+
+The FFIEC IT Conference brought together over 500 participants from across the financial regulatory and supervisory community from organizations like the Federal Reserve, OCC, FDIC, NCUA, CFPB, and state agencies. Attendees included IT examiners, cybersecurity experts, and risk professionals focused on staying current with federal efforts around cloud oversight and security.
+
+We shared how FedRAMP is evolving into a faster, automation-first framework designed to accelerate secure cloud adoption specifically highlighting the work underway through FedRAMP 20x. The session was well received, with strong engagement and real-time Q&A with FedRAMP. We underscored that FedRAMP’s future is about enabling innovation, not slowing it down, and invited continued collaboration across agencies to help shape and scale the 20x model. [View the slide deck from the briefing here!](https://github.com/user-attachments/files/21553660/FedRAMP.Presentation.pdf)
+
+### OPEN Issue [#65: Scope of FedRAMP Guidance / Technical Assistance](https://github.com/FedRAMP/roadmap/issues/65)
+
+Latest comment (2025-08-01):
+
+We're expecting to get a final version of this back and ready for publishing over the next two weeks. 🤞 
+
+### CLOSED Issue [#57: 930gov (Pete, July 31)](https://github.com/FedRAMP/roadmap/issues/57)
+
+Latest comment (2025-08-01):
+
+I had a small panel discussion with Tom Tenin - I don't think there will be a video version, so you had to be there. ;)
+
+### OPEN Issue [#47: Major redesign of fedramp.gov](https://github.com/FedRAMP/roadmap/issues/47)
+
+Latest comment (2025-08-01):
+
+We are so close!! Just working through a few final bugs in the mobile version and then we'll be able to push this site live. There is still a bunch of improvement to be made but the initial launch will hopefully clean up a lot of unnecessary stuff.
+
+You can get a sneak peak here: https://demo.fedramp.gov
+
+### OPEN Issue [#38: Continuous Vulnerability Management Standard](https://github.com/FedRAMP/roadmap/issues/38)
+
+Latest comment (2025-08-01):
+
+[RFC-0012](https://www.fedramp.gov/rfcs/0012/) was published on July 15, with a closing date of August 21.
+
+- Public Comments: https://github.com/FedRAMP/community/discussions/59
+- GitHub Casual Discussion Thread: https://github.com/FedRAMP/community/discussions/60
+- Rev5 focused special events: https://github.com/FedRAMP/community/discussions/62
+
+### OPEN Issue [#28: R5.ADS Authorization Data Sharing Standard BIR](https://github.com/FedRAMP/roadmap/issues/28)
+
+Latest comment (2025-08-01):
+
+Shifting the planned start date to August 18.
+
+### OPEN Issue [#15: 20xP1 Low Pilot Submission and Review Window](https://github.com/FedRAMP/roadmap/issues/15)
+
+Latest comment (2025-08-01):
+
+During this sprint, we completed 4 20x Low authorizations and moved two more folks into In-Process - with another batch expected over the next two weeks.
+
+We've also formally announced that the Submission window will close on August 19.
+
+### OPEN Issue [#14: Authorization Data Sharing Standard](https://github.com/FedRAMP/roadmap/issues/14)
+
+Latest comment (2025-08-01):
+
+Finalization of the Authorization Data Standard was temporarily de-prioritized to focus efforts on the Continuous Vulnerability Management Standard in RFC-0012; we'll be back to finalizing the ADS and publishing this for our 20x pilot participants by August 15.
+
 ## Sprint 04 (2025-07-07 to 2025-07-18)
 
 Sprint 04 ended with some big wins but also some clear delays as we've started to move and shift expected timelines to account for our reduced front office. On the bright side, Sprint 04 ended with authorization to recruit some internal and contract staff to offset the unexpected attrition.
