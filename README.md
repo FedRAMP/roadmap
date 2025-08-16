@@ -10,6 +10,8 @@
 - Updates after each sprint are also available in
   [**PROGRESS.md**](PROGRESS.md).
 
+- _**Last Update: 2025-08-16 at the end of Sprint 6.**_
+
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is
 updated to reflect changes and progress.
@@ -33,8 +35,9 @@ working roadmap.
 
 - **Protocol** is responsible for oversight of the entire team's work, setting
   strategy, building 20x, external communications, coordinating with
-  stakeholders, improving the website, and delivering updated FedRAMP
-  requirements. This team has **5** individuals, including the Director and
+  stakeholders, and delivering updated FedRAMP requirements. Protocol also
+  includes the AppDev team responsible for improving the website and
+  marketplace. This team has **8** individuals, including the Director and
   Security Director.
 
 - **Bastion** focuses on Rev5, including legacy agency authorizations, balancing
@@ -45,4 +48,4 @@ working roadmap.
 - **Vanguard** focuses on 20x, reviewing packages, building out improvements
   based on real-world evaluation and testing, and managing the 20x Community
   Working Group. They also support on Rev5 package reviews and improvements as
-  needed. This team has **8** individuals.
+  needed. This team has **10** individuals.
