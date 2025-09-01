@@ -48,4 +48,4 @@ working roadmap.
 - **Vanguard** focuses on 20x, reviewing packages, building out improvements
   based on real-world evaluation and testing, and managing the 20x Community
   Working Group. They also support on Rev5 package reviews and improvements as
-  needed. This team has **10** individuals.
+  needed. This team has **11** individuals.
