@@ -2,6 +2,107 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 08 (2025-09-01 to 2025-09-12)
+
+### OPEN Issue [#83: FedRAMP 20x Strategic Vision & Implementation Plan](https://github.com/FedRAMP/roadmap/issues/83)
+
+Latest comment (2025-09-14):
+
+The strategic vision and implementation plan will be shared publicly on September 24 with the announcement of Phase Two and Phase Three of FedRAMP 20x. For more information and to register for this in-person (and remote) public event replacing the 20x Community Working Group meeting for September, please visit https://www.fedramp.gov/20x/phase-two
+
+### OPEN Issue [#81: 20x Six Month Update & Phase Two and Phase Three Announcement Event (Sep 24, Pete)](https://github.com/FedRAMP/roadmap/issues/81)
+
+Latest comment (2025-09-14):
+
+This event will take place on September 24 from 3:30 to 5pm (replacing our scheduled 20x CWG) at ADI's conference space in downtown Washington DC. Formal announcement of this event and registration information will be available soon - keep an eye on https://www.fedramp.gov/20x/phase-two because this event will likely happen before this Roadmap Issue is updated. ;)
+
+### OPEN Issue [#80: GRC Engineering Podcast (Pete, Sep 16)](https://github.com/FedRAMP/roadmap/issues/80)
+
+Latest comment (2025-09-14):
+
+This interview is scheduled for September 16 and is expected to be published by the GRC Engineering podcast on September 23.
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2025-09-14):
+
+The draft Agency Implementation Guidance (now tentatively renamed Agency Requirements and Guidance but likely to shift again because names are complicated and a lot of people have opinions) will be reviewed and finalized with the FedRAMP Board on September 18 and published shortly afterwards.
+
+This guidance focuses on clarifying existing agency requirements and is not considered new guidance that requires public comment, therefore it will be released much quicker than previously anticipated.
+
+### CLOSED Issue [#75: Billington CyberSecurity Summit (Sep 9, Nicole)](https://github.com/FedRAMP/roadmap/issues/75)
+
+Latest comment (2025-09-14):
+
+Nicole totally crushed it on the main stage in a panel that also included FedRAMP Board member Dave McKeown.
+
+![Image](https://github.com/user-attachments/assets/32171201-e830-43d5-927c-a89892f82a65)
+
+### OPEN Issue [#43: Recommended Secure Configuration Standard](https://github.com/FedRAMP/roadmap/issues/43)
+
+Latest comment (2025-09-14):
+
+The recommended Secure Configuration Standard was published as RFC-0015 on September 10 and is now open for public comment.
+
+- [RFC-0015 on fedramp.gov](https://www.fedramp.gov/rfcs/0015)
+- [RFC-0015 on GitHub](https://github.com/FedRAMP/community/discussions/84)
+- [Q&A and casual discussion on RFC-0015](https://github.com/FedRAMP/community/discussions/85)
+
+This activity is expected to be finalized during the third week of October.
+
+### CLOSED Issue [#40: POA&M Standard](https://github.com/FedRAMP/roadmap/issues/40)
+
+Latest comment (2025-09-14):
+
+All recommendations about changes to POA&Ms have been directly integrated into the new Vulnerability Detection and Response Standard - for 20x authorizations and for those who adopt the new VDR during the Rev5 closed beta, POA&Ms are no longer relevant.
+
+### CLOSED Issue [#38: Vulnerability Detection and Response Standard (prev Continuous Vulnerability Management Standard)](https://github.com/FedRAMP/roadmap/issues/38)
+
+Latest comment (2025-09-14):
+
+This standard has been published as the Vulnerability Detection and Response Standard with many changes - [this thread in the FedRAMP Community](https://github.com/FedRAMP/community/discussions/82#discussioncomment-14355795) summarizes the changes at a high level.
+
+The resulting standard, including the accompanying (and critically important) FedRAMP Definitions, can be reviewed as follows:
+
+- In the [FedRAMP Docs repository on GitHub](https://github.com/FedRAMP/docs) for those who want to see both the latest and how the sausage is made
+- On [fedramp.gov](https://www.fedramp.gov/20x/standards) for folks who prefer a direct web source
+
+### OPEN Issue [#37: Collaborative Continuous Monitoring Standard](https://github.com/FedRAMP/roadmap/issues/37)
+
+Latest comment (2025-09-14):
+
+The Collaborative Continuous Monitoring Standard is pending final review and publishing for public comment as RFC-0016 by September 16.
+
+### OPEN Issue [#34: 20xP2 Moderate Pilot Submission and Review Window](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2025-09-14):
+
+In this [Sprint to 20x Phase Two](https://github.com/FedRAMP/community/discussions/82) thread in the FedRAMP Community we have continued to communicate expected changes to previously discussed FedRAMP goals and targets.
+
+Criteria for Phase Two is still in development and finalization but as indicated elsewhere:
+
+[FedRAMP Phase Two will be formally announced on September 24 at 3:30pm.](https://www.fedramp.gov/20x/phase-two)
+
+Participants in Phase Two will be eligible to receive a 12 month FedRAMP 20x Moderate authorization, however, participation will be limited; Phase Two will not be entirely open to the public. We currently anticipate opening up formal 20x Low and Moderate authorizations, reviewed directly by FedRAMP (no agency sponsor required), in February 2026.
+
+### OPEN Issue [#33: Persistent Validation and Assessment Standard](https://github.com/FedRAMP/roadmap/issues/33)
+
+Latest comment (2025-09-14):
+
+Now called the Persistent Validation and Assessment Standard, this draft includes requirements and recommendations for both providers and assessors for handling Key Security Indicators. It is planned for release as RFC-0017 as early as September 16.
+
+### OPEN Issue [#30: Finalize Key Security Indicators (KSIs) for FedRAMP Moderate](https://github.com/FedRAMP/roadmap/issues/30)
+
+Latest comment (2025-09-14):
+
+Moderate and related Phase Two Key Security Indicators have been published for public comment in RFC-0014:
+
+- [RFC-0014 on fedramp.gov](https://www.fedramp.gov/rfcs/0014)
+- [RFC-0014 on GitHub](https://github.com/FedRAMP/community/discussions/83)
+- [Casual Q&A and discussion related to RFC-0014 on GitHub](https://github.com/FedRAMP/community/discussions/85)
+
+Completion of this activity is now anticipated to complete by October 14 as we transition into Phase Two.
+
 ## Sprint 07 (2025-08-28 to 2025-08-29)
 
 ### OPEN Issue [#79: Agency Implementation Guidance](https://github.com/FedRAMP/roadmap/issues/79)
