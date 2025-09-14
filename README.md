@@ -66,7 +66,7 @@ FedRAMP peaked at 80 total staff in January, fell to a low of 20 in July, and wi
 
 For FY26, approximately ~$10mil has been allocated from the FCSF to FedRAMP, to be spent almost entirely on staff. This budget targets growth from **16** to **24** (+8) federal employees and from **12** to **19** (+7) contractors for a total staff of **43** (+15). 
 
-FedRAMP will operate in FY26 with an absolute minimum of support staff as it did during the last half of FY25. Aside from the Director, Chief of Staff, and Communications Lead, **all** other leadership and staff will be focused on the delivery of authorizations (both Rev5 and 20x), maintaining extremely limited customer service, and improving the FedRAMP Marketplace.
+FedRAMP will operate in FY26 with an absolute minimum of support staff as it did during the last half of FY25. We will be entirely focused on aggressively implementing the strategic vision for FedRAMP outlined in M-24-15, delivering authorizations (both Rev5 and 20x) at a record pace, providing limited customer service, and slowly improving the FedRAMP Marketplace. 
 
 As always, we anticipate these plans may be overcome by events. A federal hiring freeze and changes to the federal hiring process means there is a significant gap between having budget to hire and being able to hire. The FY26 budget process for the government is unlikely to go smoothly, with the FCSF having already been in a continuing resolution for all of FY25 and budgets coming out of congressional committees cutting it significantly. And FedRAMP's primary technical support contract will need to be recompeted at the end of FY26, a process which does not ensure continuity of contractor staff.
 
