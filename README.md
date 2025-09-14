@@ -10,7 +10,7 @@
 - Updates after each sprint are also available in
   [**PROGRESS.md**](PROGRESS.md).
 
-- _**Last Update: 2025-09-01 at the end of Sprint 7.**_
+- _**Last Update: 2025-09-14 at the end of Sprint 8.**_
 
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is
@@ -49,3 +49,25 @@ working roadmap.
   based on real-world evaluation and testing, and managing the 20x Community
   Working Group. They also support on Rev5 package reviews and improvements as
   needed. This team has **11** individuals.
+
+---
+
+## Budget, Resources, and Planning
+
+FedRAMP is one of many programs operating within the Technology Transformation Services in the General Services Administration that receives funding from the Federal Citizen Services Fund (FCSF).
+
+In FY24, approximately $6mil from the American Rescue Plan (ARP) and $18mil from the FCSF were allocated to FedRAMP (for a total allocation of ~$24mil). 
+
+In FY25, approximately ~$22mil from the FCSF was initially allocated to FedRAMP until the target was adjusted to ~$11mil in FY25 Q2. In that time period FedRAMP canceled nearly all spending that was not allocated directly for staff (both federal employees and contractors).
+
+FedRAMP peaked at 80 total staff in January, fell to a low of 20 in July, and will end FY25 with 28 total staff.
+
+### Fiscal Year 2026 (FY26) begins October 1, 2025
+
+For FY26, approximately ~$10mil has been allocated from the FCSF to FedRAMP, to be spent almost entirely on staff. This budget targets growth from **16** to **24** (+8) federal employees and from **12** to **19** (+7) contractors for a total staff of **43** (+15). 
+
+FedRAMP will operate in FY26 with an absolute minimum of support staff as it did during the last half of FY25. We will be entirely focused on aggressively implementing the strategic vision for FedRAMP outlined in M-24-15, delivering authorizations (both Rev5 and 20x) at a record pace, providing limited customer service, and slowly improving the FedRAMP Marketplace. 
+
+As always, we anticipate these plans may be overcome by events. A federal hiring freeze and changes to the federal hiring process means there is a significant gap between having budget to hire and being able to hire. The FY26 budget process for the government is unlikely to go smoothly, with the FCSF having already been in a continuing resolution for all of FY25 and budgets coming out of congressional committees cutting it significantly. And FedRAMP's primary technical support contract will need to be recompeted at the end of FY26, a process which does not ensure continuity of contractor staff.
+
+Thank you for your patience and understanding as we continually adjust our plans and strategies in response to the changing realities of our operating environment. We remain committed to transparency and will continue to use this working Roadmap to demonstrate how these changes will be reflected in our work.
