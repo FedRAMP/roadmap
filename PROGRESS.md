@@ -2,6 +2,109 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 09 (2025-09-15 to 2025-09-26)
+
+### CLOSED Issue [#83: FedRAMP 20x Strategic Vision & Implementation Plan](https://github.com/FedRAMP/roadmap/issues/83)
+
+Latest comment (2025-09-28):
+
+This implementation plan was shared widely on 9/24 but still needs to be ported to our web page. We hope to have a youtube link with that presentation soon and will be updating the webpage next month to align with this plan, however you can review the powerpoint with dates and goals below if you missed it.
+
+[20x Phase Two, Three, and Beyond (2025-09-24).pdf](https://github.com/user-attachments/files/22583999/20x.Phase.Two.Three.and.Beyond.2025-09-24.pdf)
+
+### CLOSED Issue [#82: [Gov] FedRAMP Day II (Team, Sep 22)](https://github.com/FedRAMP/roadmap/issues/82)
+
+Latest comment (2025-09-28):
+
+I wasn't able to attend FedRAMP Day myself but I listened in to the morning session and the feedback overall was positive. Agencies are starting to see the longer term plays and understand the importance of GRC automation tooling, but also seeing the reality that until we have things like the Authorization Data Sharing standard implemented there isn't much to do here.
+
+### CLOSED Issue [#81: 20x Six Month Update & Phase Two and Phase Three Announcement Event (Sep 24, Pete)](https://github.com/FedRAMP/roadmap/issues/81)
+
+Latest comment (2025-09-28):
+
+This event was covered by various folks on LinkedIn as well as the traditional media:
+
+- https://meritalk.com/articles/federal-cio-greg-barbaccia-backs-fedramp-20x-shares-ombs-priorities/
+- https://www.meritalk.com/articles/gsa-unveils-fedramp-20x-phase-2-pilot-previews-phases-to-come/
+-  https://www.nextgov.com/acquisition/2025/09/gsa-launches-second-phase-fedramp-20x-backed-omb/408356/
+-  https://www.executivegov.com/articles/fedramp-20x-phase-2-pilot
+
+We expect a youtube video to be available soon for folks who missed it as well.
+
+### CLOSED Issue [#80: GRC Engineering Podcast (Pete, Sep 16)](https://github.com/FedRAMP/roadmap/issues/80)
+
+Latest comment (2025-09-28):
+
+This interview was recorded as planned but appears to be still pending release.
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2025-09-28):
+
+Finalization and publication of this guidance has been delayed one sprint as a result of an unexpected event; it should be formalized soon. I've moved the likely end date to October 10 to allow some padding.
+
+### OPEN Issue [#50: External data driven marketplace](https://github.com/FedRAMP/roadmap/issues/50)
+
+Latest comment (2025-09-28):
+
+The [Authorization Data Sharing](https://github.com/FedRAMP/docs/blob/main/markdown/FRMR.ADS.authorization-data-sharing.md) standard is optional for Phase One and to date no one has begun to implement it. This standard will be a mandatory requirement for Phase Two and beyond, however, so we're moving the likely delivery dates on this prototype to some point in the future where there should at least be a few cloud service providers making this data available to us in a way that we can prototype properly.
+
+### OPEN Issue [#48: Major redesign of marketplace](https://github.com/FedRAMP/roadmap/issues/48)
+
+Latest comment (2025-09-28):
+
+I got to see a really cool working prototype of this last week, but we're still not there yet. Based on the work done to date and current estimates from the team, we might be ready to release this before the end of October but we want to make sure it's ready and clean first.
+
+### OPEN Issue [#43: Recommended Secure Configuration Standard](https://github.com/FedRAMP/roadmap/issues/43)
+
+Latest comment (2025-09-28):
+
+[RFC-0015](https://github.com/FedRAMP/community/discussions/84) is still open for two more weeks; this one appears to be relatively straightforward as there is only one public comment at the moment.
+
+### OPEN Issue [#39: Consolidated R5 Continuous Monitoring Standard](https://github.com/FedRAMP/roadmap/issues/39)
+
+Latest comment (2025-09-28):
+
+We're shifting this later to ensure we can include the results of [RFC-0016 Collaborative Continuous Monitoring Standard](https://www.fedramp.gov/rfcs/0016/) into any such guide; expect this to be delivered later in the calendar year.
+
+### OPEN Issue [#37: Collaborative Continuous Monitoring Standard](https://github.com/FedRAMP/roadmap/issues/37)
+
+Latest comment (2025-09-28):
+
+This was published as [RFC-0016](https://www.fedramp.gov/rfcs/0016/) on September 15! This will be balanced to Rev5 so reviewing and commenting is critical for Rev5-based providers.
+
+### OPEN Issue [#35: FIPS cryptographic module application for commercial services](https://github.com/FedRAMP/roadmap/issues/35)
+
+Latest comment (2025-09-28):
+
+I'm moving this forward one sprint because it is one of the lowest priority tasks at the moment; the current [FedRAMP Policy for Cryptographic Module Selection and Use](https://www.fedramp.gov/resources/documents/FedRAMP_Policy_for_Cryptographic_Module_Selection_v1.1.0.pdf) is still applicable.
+
+### OPEN Issue [#34: 20xP2 Moderate Pilot Submission and Review Window](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2025-09-28):
+
+The [Phase Two](https://fedramp.gov/20x/phase-two) submission window has been publicly announced as likely to occur the week of October 16 to 23. FedRAMP has also clarified that Phase Two will not be open to the public and that cloud service providers must meet specific criteria to participate. This page also has additional information about the expectations for Phase Two, including that it will be much more difficult than Phase One and most providers will need more time and better tools to meet these requirements. We must build 20x together.
+
+### OPEN Issue [#33: Persistent Validation and Assessment Standard](https://github.com/FedRAMP/roadmap/issues/33)
+
+Latest comment (2025-09-28):
+
+This was published as [RFC-0017](https://www.fedramp.gov/rfcs/0017/) on September 15! This standard adds significant details to FedRAMP's expectations in Phase Two and beyond; it is a must-review for anyone who is considering FedRAMP 20x at the moment.
+
+### OPEN Issue [#31: (2/?) 20x Phase Two](https://github.com/FedRAMP/roadmap/issues/31)
+
+Latest comment (2025-09-28):
+
+The details of Phase Two were publicly announced this week, with additional information to follow over the coming weeks. As always, the source of truth is the web page, this roadmap, and the Community Working Group discussion forums: https://www.fedramp.gov/20x/phase-two
+
+It never fails to amaze me how often people email me asking questions about things that are on our website. 
+
+### OPEN Issue [#30: Finalize Key Security Indicators (KSIs) for FedRAMP Moderate](https://github.com/FedRAMP/roadmap/issues/30)
+
+Latest comment (2025-09-28):
+
+Public comment is still open on [RFC-0014](https://www.fedramp.gov/rfcs/0014/) for another two weeks! So far this RFC has not been particularly active but there have been some [really interesting comments overall](https://github.com/FedRAMP/community/discussions/83).
+
 ## Sprint 08 (2025-09-01 to 2025-09-12)
 
 ### OPEN Issue [#83: FedRAMP 20x Strategic Vision & Implementation Plan](https://github.com/FedRAMP/roadmap/issues/83)
