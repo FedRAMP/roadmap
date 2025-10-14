@@ -2,6 +2,81 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 10 (2025-09-29 to 2025-10-10)
+
+> Note: A significant amount of activity has been curtailed by the government shutdown
+> effective 2025-10-01; more than half of FedRAMP's federal employees have been
+> furloughed and non-essential non-excepted activities are limited.
+>
+> **This has delayed 20x Phase Two.**
+
+
+### CLOSED Issue [#89: Community Outreach - FY25 Q4](https://github.com/FedRAMP/roadmap/issues/89)
+
+Latest comment (2025-10-09):
+
+During FY25 Q4, FedRAMP managed 13+ major engagements with the community.
+
+### CLOSED Issue [#88: FY25 Summary Blog Post](https://github.com/FedRAMP/roadmap/issues/88)
+
+Latest comment (2025-10-09):
+
+FedRAMP's FY25 end of year report is available on the FedRAMP Blog here: https://www.fedramp.gov/2025-09-30-fedramp-built-a-modern-foundation-in-fy25-to-deliver-massive-improvements-in-fy26/
+
+Here is just one example of the type of data shared in this report:
+
+<img width="1082" height="620" alt="Image" src="https://github.com/user-attachments/assets/d2490e28-92ea-4a63-a624-d8da780968fb" />
+
+### CLOSED Issue [#81: 20x Six Month Update & Phase Two and Phase Three Announcement Event (Sep 24, Pete)](https://github.com/FedRAMP/roadmap/issues/81)
+
+Latest comment (2025-10-09):
+
+This entire launch event is also now available on youtube here: https://www.youtube.com/watch?v=KBQb_6pVuS4
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2025-10-09):
+
+This guidance is now delayed indefinitely due the government shutdown. Timeline will be reassessed when the shutdown ends. This activity has been placed into the Hold / Pending status.
+
+### OPEN Issue [#48: Major redesign of marketplace](https://github.com/FedRAMP/roadmap/issues/48)
+
+Latest comment (2025-10-09):
+
+All of the federal staff working on this improvement have been furloughed during the current government shutdown; delivery of these improvements will be delayed. 
+
+### CLOSED Issue [#44: Community Outreach - FY25 Q2/Q3 ](https://github.com/FedRAMP/roadmap/issues/44)
+
+Latest comment (2025-10-09):
+
+During FY25 Q2/Q3, FedRAMP managed 10+ engagements with the community, with most of these taking place in FY25 Q3. 
+
+### OPEN Issue [#43: Recommended Secure Configuration Standard](https://github.com/FedRAMP/roadmap/issues/43)
+
+Latest comment (2025-10-09):
+
+[RFC-0015](https://www.fedramp.gov/rfcs/0015/) is still open; finalization is extremely unlikely to happen as scheduled due to the current government shutdown. The public is advised to submit comment as quickly as possible because after the official closing date this RFC may close at any time unexpectedly.
+
+### OPEN Issue [#31: (2/?) 20x Phase Two](https://github.com/FedRAMP/roadmap/issues/31)
+
+Latest comment (2025-10-09):
+
+All previously anticipated Phase Two timelines are likely to shift as a result of the active government shutdown. Please stand by for updates. For more on how this shutdown is affecting FedRAMP, please review https://fedramp.gov/shutdown
+
+### OPEN Issue [#30: Finalize Key Security Indicators (KSIs) for FedRAMP Moderate](https://github.com/FedRAMP/roadmap/issues/30)
+
+Latest comment (2025-10-09):
+
+[RFC-0014](https://www.fedramp.gov/rfcs/0014/) is still open; finalization is extremely unlikely to happen as scheduled due to the current government shutdown. The public is advised to submit comment as quickly as possible because after the official closing date this RFC may close at any time unexpectedly.
+
+### OPEN Issue [#3: (1/?) 20x Phase One](https://github.com/FedRAMP/roadmap/issues/3)
+
+Latest comment (2025-10-09):
+
+Phase One will be formally closed out when #30 has been finalized. There are still many active Phase One participants whose review may continue during Phase Two. All reviews are temporarily halted due to the ongoing government shutdown: https://fedramp.gov/shutdown
+
+
+
 ## Sprint 09 (2025-09-15 to 2025-09-26)
 
 ### CLOSED Issue [#83: FedRAMP 20x Strategic Vision & Implementation Plan](https://github.com/FedRAMP/roadmap/issues/83)
