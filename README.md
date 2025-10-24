@@ -10,7 +10,7 @@
 - Updates after each sprint are also available in
   [**PROGRESS.md**](PROGRESS.md).
 
-- _**Last Update: 2025-10-14 at the end of Sprint 10.**_
+- _**Last Update: 2025-10-24 at the end of Sprint 11.**_
 
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is
@@ -43,12 +43,12 @@ working roadmap.
 - **Bastion** focuses on Rev5, including legacy agency authorizations, balancing
   Rev5 against 20x, handling most incoming info@ requests and package requests,
   and managing the Rev5 Community Working Group. They also support on 20x
-  package reviews and improvements. This team has **9** individuals.
+  package reviews and improvements. This team has **11** individuals.
 
 - **Vanguard** focuses on 20x, reviewing packages, building out improvements
   based on real-world evaluation and testing, and managing the 20x Community
   Working Group. They also support on Rev5 package reviews and improvements as
-  needed. This team has **11** individuals.
+  needed. This team has **14** individuals.
 
 ---
 
