@@ -10,7 +10,7 @@
 - Updates after each sprint are also available in
   [**PROGRESS.md**](PROGRESS.md).
 
-- _**Last Update: 2025-10-24 at the end of Sprint 11.**_
+- _**Last Update: 2025-11-07 at the end of Sprint 12 - no changes due to shutdown.**_
 
 This is a **working repository** - FedRAMP actively uses this to plan and track
 our work at a high level. Each sprint is planned using this board and it is

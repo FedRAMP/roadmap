@@ -2,6 +2,14 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 12 (2025-10-27 to 2025-11-07)
+
+> The federal government remained shut down during all of Sprint 12; all public-facing activities have been halted, requests for comment remain open, and the phased implementation of 20x is delayed.
+>
+> Expected timelines for open roadmap items will be adjusted once the shutdown ends.
+> 
+> For more information see https://fedramp.gov/shutdown
+
 ## Sprint 11 (2025-10-13 to 2025-10-24)
 
 > The federal government remained shut down during all of Sprint 11; all public-facing activities have been halted, requests for comment remain open, and the phased implementation of 20x is delayed.
