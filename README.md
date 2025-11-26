@@ -1,22 +1,26 @@
 ![FedRAMP Public Roadmap](https://github.com/user-attachments/assets/3d70192d-1db3-4fd2-9a18-f369a697aa26)
 
-### This repository tracks **significant [one-time activities](https://github.com/FedRAMP/roadmap/issues?q=is%3Aissue%20state%3Aopen%20sort%3Aupdated-desc)** for FedRAMP that are planned, in progress, or recently completed.
+This repository tracks **significant one-time activities** for FedRAMP that are
+planned, in progress, or recently completed.
 
 - The
-  [**Public Roadmap project board**](https://github.com/orgs/FedRAMP/projects/25/views/1)
-  shows a traditional roadmap view of these activities grouped by major
-  initiative over time.
+  **[Active Roadmap View](https://github.com/orgs/FedRAMP/projects/25/views/1)**
+  shows work that is planned or in progress.
+- The **[Delivered View](https://github.com/orgs/FedRAMP/projects/25/views/10)**
+  shows work that has been delivered.
 
-- Updates after each sprint are also available in
-  [**PROGRESS.md**](PROGRESS.md).
+- [**PROGRESS.md**](PROGRESS.md) summarizes the most recent comment on each
+  issue and is updated at the end of each two-week period.
 
-- _**Last Update: 2025-11-07 at the end of Sprint 12 - no changes due to shutdown.**_
+_Last Update: **2025-11-26, a few days after the end of Sprint 13**._
 
-This is a **working repository** - FedRAMP actively uses this to plan and track
-our work at a high level. Each sprint is planned using this board and it is
-updated to reflect changes and progress.
+---
 
-> Planned activities on this roadmap, including specific goals and dates, are
+> ⚠️ This is a **working repository** - FedRAMP actively uses this to plan
+> and track our work at a high level. Each sprint is planned using this board
+> and it is updated to reflect changes and progress.
+>
+> ⚠️ Planned activities on this roadmap, including specific goals and dates, are
 > subject to change based on many factors. All completion dates are aspirational
 > targets for awareness only and are likely to shift based on the changing
 > environment.
@@ -54,20 +58,44 @@ working roadmap.
 
 ## Budget, Resources, and Planning
 
-FedRAMP is one of many programs operating within the Technology Transformation Services in the General Services Administration that receives funding from the Federal Citizen Services Fund (FCSF).
+FedRAMP is one of many programs operating within the Technology Transformation
+Services in the General Services Administration that receives funding from the
+Federal Citizen Services Fund (FCSF).
 
-In FY24, approximately $6mil from the American Rescue Plan (ARP) and $18mil from the FCSF were allocated to FedRAMP (for a total allocation of ~$24mil). 
+In FY24, approximately $6mil from the American Rescue Plan (ARP) and $18mil from
+the FCSF were allocated to FedRAMP (for a total allocation of ~$24mil).
 
-In FY25, approximately ~$22mil from the FCSF was initially allocated to FedRAMP until the target was adjusted to ~$11mil in FY25 Q2. In that time period FedRAMP canceled nearly all spending that was not allocated directly for staff (both federal employees and contractors).
+In FY25, approximately ~$22mil from the FCSF was initially allocated to FedRAMP
+until the target was adjusted to ~$11mil in FY25 Q2. In that time period FedRAMP
+canceled nearly all spending that was not allocated directly for staff (both
+federal employees and contractors).
 
-FedRAMP peaked at 80 total staff in January, fell to a low of 20 in July, and will end FY25 with 28 total staff.
+FedRAMP peaked at 80 total staff in January, fell to a low of 20 in July, and
+will end FY25 with 28 total staff.
 
 ### Fiscal Year 2026 (FY26) begins October 1, 2025
 
-For FY26, approximately ~$10mil has been allocated from the FCSF to FedRAMP, to be spent almost entirely on staff. This budget targets growth from **16** to **24** (+8) federal employees and from **12** to **19** (+7) contractors for a total staff of **43** (+15). 
+For FY26, approximately ~$10mil has been allocated from the FCSF to FedRAMP, to
+be spent almost entirely on staff. This budget targets growth from **16** to
+**24** (+8) federal employees and from **12** to **19** (+7) contractors for a
+total staff of **43** (+15).
 
-FedRAMP will operate in FY26 with an absolute minimum of support staff as it did during the last half of FY25. We will be entirely focused on aggressively implementing the strategic vision for FedRAMP outlined in M-24-15, delivering authorizations (both Rev5 and 20x) at a record pace, providing limited customer service, and slowly improving the FedRAMP Marketplace. 
+FedRAMP will operate in FY26 with an absolute minimum of support staff as it did
+during the last half of FY25. We will be entirely focused on aggressively
+implementing the strategic vision for FedRAMP outlined in M-24-15, delivering
+authorizations (both Rev5 and 20x) at a record pace, providing limited customer
+service, and slowly improving the FedRAMP Marketplace.
 
-As always, we anticipate these plans may be overcome by events. A federal hiring freeze and changes to the federal hiring process means there is a significant gap between having budget to hire and being able to hire. The FY26 budget process for the government is unlikely to go smoothly, with the FCSF having already been in a continuing resolution for all of FY25 and budgets coming out of congressional committees cutting it significantly. And FedRAMP's primary technical support contract will need to be recompeted at the end of FY26, a process which does not ensure continuity of contractor staff.
+As always, we anticipate these plans may be overcome by events. A federal hiring
+freeze and changes to the federal hiring process means there is a significant
+gap between having budget to hire and being able to hire. The FY26 budget
+process for the government is unlikely to go smoothly, with the FCSF having
+already been in a continuing resolution for all of FY25 and budgets coming out
+of congressional committees cutting it significantly. And FedRAMP's primary
+technical support contract will need to be recompeted at the end of FY26, a
+process which does not ensure continuity of contractor staff.
 
-Thank you for your patience and understanding as we continually adjust our plans and strategies in response to the changing realities of our operating environment. We remain committed to transparency and will continue to use this working Roadmap to demonstrate how these changes will be reflected in our work.
+Thank you for your patience and understanding as we continually adjust our plans
+and strategies in response to the changing realities of our operating
+environment. We remain committed to transparency and will continue to use this
+working Roadmap to demonstrate how these changes will be reflected in our work.
