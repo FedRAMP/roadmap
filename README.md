@@ -12,7 +12,7 @@ planned, in progress, or recently completed.
 - [**PROGRESS.md**](PROGRESS.md) summarizes the most recent comment on each
   issue and is updated at the end of each two-week period.
 
-_Last Update: **2025-11-26, a few days after the end of Sprint 13**._
+_Last Update: **2025-12-05 at the end of Sprint 14**._
 
 ---
 

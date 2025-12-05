@@ -2,6 +2,52 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 14 (2025-11-24 to 2025-12-05)
+
+### OPEN Issue [#96: RFC: Rev5 OSCAL adoption](https://github.com/FedRAMP/roadmap/issues/96)
+
+Latest comment (2025-12-05):
+
+This roadmap item is new in Sprint 14.
+
+### OPEN Issue [#95: RFC: New Marketplace and Authorization Designations](https://github.com/FedRAMP/roadmap/issues/95)
+
+Latest comment (2025-12-05):
+
+This work in progress RFC is new to the roadmap today.
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2025-12-05):
+
+This will be a topic of conversation at the December 18 FedRAMP Board meeting.
+
+### OPEN Issue [#48: Major redesign of marketplace](https://github.com/FedRAMP/roadmap/issues/48)
+
+Latest comment (2025-12-05):
+
+A final (well, final until release - we'll keep improving it) interface was approved this week and there are only a few minor tweaks necessary to finish this out. We may not be able to launch before Christmas due to the holidays impacting so much but the marketplace is looking a lot nicer!
+
+Here's a little taste of some random demo pages.
+
+<img width="720" height="1016" alt="Image" src="https://github.com/user-attachments/assets/688e1ad4-c73b-4528-849f-c14f45fef23f" />
+
+<img width="721" height="641" alt="Image" src="https://github.com/user-attachments/assets/e9618d98-2ceb-4f20-8086-3ded839ec2a1" />
+
+<img width="373" height="730" alt="Image" src="https://github.com/user-attachments/assets/34df1db0-cb1a-4c27-9aed-1cf885bdd0ae" />
+
+### OPEN Issue [#34: 20x Phase 2 Pilot - Cohort 1](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2025-12-05):
+
+As of Friday Dec 5 we have **5** cloud service providers who met the eligibility requirements and applied for Cohort 1 - we expect to publicly announce the resulting decisions for Cohort 1 early next week. So far the pilot proposals have all been quite exciting and we're looking forward to sharing those on youtube so everyone can learn about these cloud service offerings and their approaches.
+
+### OPEN Issue [#32: Agency AI Adoption Pilot for 20x](https://github.com/FedRAMP/roadmap/issues/32)
+
+Latest comment (2025-12-05):
+
+Next week OMB is gathering a broad mix of executives across government (including almost every Chief x Council) at the White House to discuss plans and expectations for government-wide adoption of FedRAMP authorized AI services. It's going to be quite the party, but it's not open to the public.
+
 ## Sprint 13 (2025-11-10 to 2025-11-21)
 
 > These updates were delayed as things started back up from the longest
