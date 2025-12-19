@@ -12,7 +12,7 @@ planned, in progress, or recently completed.
 - [**PROGRESS.md**](PROGRESS.md) summarizes the most recent comment on each
   issue and is updated at the end of each two-week period.
 
-_Last Update: **2025-12-05 at the end of Sprint 14**._
+_Last Update: **2025-12-19 at the end of Sprint 15**._
 
 ---
 
@@ -76,9 +76,7 @@ will end FY25 with 28 total staff.
 ### Fiscal Year 2026 (FY26) begins October 1, 2025
 
 For FY26, approximately ~$10mil has been allocated from the FCSF to FedRAMP, to
-be spent almost entirely on staff. This budget targets growth from **16** to
-**24** (+8) federal employees and from **12** to **19** (+7) contractors for a
-total staff of **43** (+15).
+be spent almost entirely on staff. 
 
 FedRAMP will operate in FY26 with an absolute minimum of support staff as it did
 during the last half of FY25. We will be entirely focused on aggressively

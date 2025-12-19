@@ -2,6 +2,65 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 15 (2025-12-08 to 2025-12-19)
+
+### OPEN Issue [#97: RFC: Updates on the FedRAMP Trademark](https://github.com/FedRAMP/roadmap/issues/97)
+
+Latest comment (2025-12-19):
+
+This planned RFC is new this sprint!
+
+### OPEN Issue [#96: RFC: Rev5 OSCAL adoption](https://github.com/FedRAMP/roadmap/issues/96)
+
+Latest comment (2025-12-19):
+
+Tentatively planning to release this RFC in mid/late January.
+
+### OPEN Issue [#95: RFC: New Marketplace and Authorization Designations](https://github.com/FedRAMP/roadmap/issues/95)
+
+Latest comment (2025-12-19):
+
+Due to the holidays we're tentatively planning to release this RFC on Jan 12-14. We're also going to try something new for this RFC: a short podcast style discussion about the background and motivation as well as an overview of the RFC itself. Some folks like to just read RFCs but we want to provide a bit more for folks who want to listen to us ramble.
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2025-12-19):
+
+This has slipped continuously, especially in the aftermath of the shutdown, but as we change focus of priority towards agency adoption we need to push this over the finish line. It's become one of those things that folks keep having more ideas about adding to or changing things up in a way that hasn't aligned with our external approach of incremental delivery because we're aware that with agencies it's more important to have a complete thing they can take and run with in one go without having to keep learning more.
+
+Based on that, I've reset the target to end of January and we will align this with the Federal AI adoption sprint to ensure folks have this guidance as we engage government-wide on that.
+
+### OPEN Issue [#48: Major redesign of marketplace](https://github.com/FedRAMP/roadmap/issues/48)
+
+Latest comment (2025-12-19):
+
+We're making a significant shift in direction on this: we are going to wait for the outcome of #95 (RFC on new marketplace designations) to launch the new Marketplace so that it aligns with the resulting changes from that RFC.
+
+### OPEN Issue [#34: 20x Phase 2 Pilot - Cohort 1](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2025-12-19):
+
+On December 10 we announced the [Phase 2 Cohort 1 participants](https://www.fedramp.gov/2025-12-10-announcing-the-initial-20x-phase-2-pilot-participants/) and published their pilot proposal videos.
+
+As of today we have completed all planned collaborative workshops with the 3 participants (well, the final one is schedule for this afternoon but I'm presuming in advance we'll finish up).
+
+We were able to talk through approaches and theory for every single KSI in 2x 2-hour collaborative sessions with 1 participant and 3x 2-hour sessions with the other 2. A common discussion was transitioning from the typical "boolean" validations from Phase 1 ("is this enabled true / false") towards validations that measured the outcomes from the boolean choice ("how many times per day has this triggered to do something").
+
+Now we're taking a break so all three participants can finalize their packages and we can prep for Cohort 2. Overall these collaborative workshops carved out 16 hours of time out of 5 days for me and FR's senior staff, which was a bit rough - Cohort 2 is going to be bonkers. It was well worth it though as we learned quite a lot and so do the participants, everyone's package will be better off.
+
+### OPEN Issue [#32: Agency AI Adoption Pilot for 20x](https://github.com/FedRAMP/roadmap/issues/32)
+
+Latest comment (2025-12-19):
+
+This was a major topic of discussion in our FedRAMP Board meeting in December; expect January to be a very busy month as we push out materials to support this.
+
+### OPEN Issue [#16: Rev5 SCN Significant Change Notification Balance Improvement Release](https://github.com/FedRAMP/roadmap/issues/16)
+
+Latest comment (2025-12-19):
+
+During our December 18 meeting the FedRAMP Board informally concurred that the SCN process should go into wide release in February; we plan a formal vote in January.
+
+
 ## Sprint 14 (2025-11-24 to 2025-12-05)
 
 ### OPEN Issue [#96: RFC: Rev5 OSCAL adoption](https://github.com/FedRAMP/roadmap/issues/96)
