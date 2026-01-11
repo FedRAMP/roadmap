@@ -2,6 +2,11 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 16 (2025-12-22 to 2026-01-02)
+
+> FedRAMP spent most of Sprint 16 celebrating the holidays and taking a well deserved
+> rest. Please stand by for exciting stuff in Sprint 17!
+
 ## Sprint 15 (2025-12-08 to 2025-12-19)
 
 ### OPEN Issue [#97: RFC: Updates on the FedRAMP Trademark](https://github.com/FedRAMP/roadmap/issues/97)
