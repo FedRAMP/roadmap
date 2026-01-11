@@ -12,14 +12,10 @@ planned, in progress, or recently completed.
 - [**PROGRESS.md**](PROGRESS.md) summarizes the most recent comment on each
   issue and is updated at the end of each two-week period.
 
-_Last Update: **2026-01-011, a delayed update after the holidays and Sprint 16**._
+_Last Update: **2026-01-11, a delayed update after the holidays and Sprint 16**._
 
 ---
 
-> ⚠️ This is a **working repository** - FedRAMP actively uses this to plan
-> and track our work at a high level. Each sprint is planned using this board
-> and it is updated to reflect changes and progress.
->
 > ⚠️ Planned activities on this roadmap, including specific goals and dates, are
 > subject to change based on many factors. All completion dates are aspirational
 > targets for awareness only and are likely to shift based on the changing
