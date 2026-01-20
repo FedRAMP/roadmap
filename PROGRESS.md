@@ -2,6 +2,83 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+## Sprint 17 (2026-01-05 to 2026-01-16)
+
+### OPEN Issue [#101: FRMR Docs Overhaul](https://github.com/FedRAMP/roadmap/issues/101)
+
+Latest comment (2026-01-20):
+
+The final alpha version is saved for posterity here: https://github.com/FedRAMP/docs/releases/tag/v0.4.0-alpha && https://github.com/FedRAMP/docs/tree/ref-v0.4.0-alpha
+
+Work in progress for the significant overhaul is available here: https://github.com/FedRAMP/docs/tree/pwx-v0.9.0-beta
+
+### OPEN Issue [#100: RFC-0019 Reporting Assessment Costs](https://github.com/FedRAMP/roadmap/issues/100)
+
+Latest comment (2026-01-20):
+
+The resulting information will be made available (de-identified) in a new section on the website focused on cost and status reporting.
+
+### OPEN Issue [#99: RFC-0022 Leveraging External Frameworks](https://github.com/FedRAMP/roadmap/issues/99)
+
+Latest comment (2026-01-20):
+
+This RFC is tied into work done during 20x Phase 1 and will be deployed as part of 20x Phase 2.
+
+### OPEN Issue [#98: RFC-0023 Rev5 Program Certifications](https://github.com/FedRAMP/roadmap/issues/98)
+
+Latest comment (2026-01-20):
+
+Please note that program authorizations in this RFC are designed specifically for cloud service providers that have already nearly completed their Rev5 journey. 
+
+### OPEN Issue [#97: FedRAMP Trademark Guidance Updates](https://github.com/FedRAMP/roadmap/issues/97)
+
+Latest comment (2026-01-20):
+
+GSA Office of General Counsel advised us that an RFC will not be necessary for these changes. Stay tuned for updated brand guidance when we're ready to release directly.
+
+### OPEN Issue [#96: RFC-0024 Rev5 Machine-Readable Packages](https://github.com/FedRAMP/roadmap/issues/96)
+
+Latest comment (2026-01-20):
+
+This RFC was released on January 13, 2026. Given the extensive impact, public comment period has been extended to nearly two months.
+
+https://www.fedramp.gov/rfcs/0024/
+
+### OPEN Issue [#95: RFC: New Marketplace and Authorization Designations](https://github.com/FedRAMP/roadmap/issues/95)
+
+Latest comment (2026-01-20):
+
+These RFCs were released on January 13 as:
+
+* https://www.fedramp.gov/rfcs/0020/ FedRAMP Authorization Designations
+* https://www.fedramp.gov/rfcs/0021/ Expanding the FedRAMP Marketplace
+
+### OPEN Issue [#93: 20x Phase 2 Pilot - Cohort 2](https://github.com/FedRAMP/roadmap/issues/93)
+
+Latest comment (2026-01-20):
+
+After an **intense** week of pilot proposals that ended with a marathon day of 6 on Friday the 9th, we selected an additional 10 participants in Cohort 2. All of these pilot proposals were so solid that it didn't seem fair to only pick the best 7 - adding 3 more is a fair bit of extra work for us but we decided to make the commitment anyway.
+
+Last week our senior staff spent ~11 hours in collaborative workshops with 7 of these participants and it's definitely a wild ride. The selected participants for both cohorts (including their pilot proposal, if applicable) can be seen at https://www.fedramp.gov/20x/phase-two/participate/
+
+### OPEN Issue [#32: Agency AI Adoption Pilot for 20x](https://github.com/FedRAMP/roadmap/issues/32)
+
+Latest comment (2026-01-20):
+
+One of our AI prioritized participants have submitted their 20x authorization package! We're expecting the other two very soon.
+
+### CLOSED Issue [#19: R5.MAS Minimum Assessment Scope BIR](https://github.com/FedRAMP/roadmap/issues/19)
+
+Latest comment (2025-11-26):
+
+FedRAMP now plans to make the Minimum Assessment Scope available as an optional balance improvement release for Rev5 under Wide Release on January 12, 2026. Instructions for how cloud services may adopt this standard are in the Rev5 Balance version of this standard: https://www.fedramp.gov/docs/rev5/minimum-assessment-scope/
+
+### CLOSED Issue [#16: Rev5 SCN Significant Change Notification Balance Improvement Release](https://github.com/FedRAMP/roadmap/issues/16)
+
+Latest comment (2026-01-20):
+
+The SCN process will go into wide release at the end of February.
+
 ## Sprint 16 (2025-12-22 to 2026-01-02)
 
 > FedRAMP spent most of Sprint 16 celebrating the holidays and taking a well deserved
