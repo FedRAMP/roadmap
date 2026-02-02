@@ -2,6 +2,41 @@
 
 ![Roadmap Vibes: a group of folks working on computers while looking out at clouds](https://github.com/user-attachments/assets/5d9b0eac-6241-4fdb-b2bb-c53af2bb8f26)
 
+> Note: As of 2026-01-31, GSA is shutdown due to a lapse in appropriations.
+
+## Sprint 18 (2026-01-19 to 2026-01-30)
+
+### OPEN Issue [#101: FRMR Docs Overhaul](https://github.com/FedRAMP/roadmap/issues/101)
+
+Latest comment (2026-02-02):
+
+This is likely to be released shortly after the current shutdown ends.
+
+### OPEN Issue [#93: 20x Phase 2 Pilot - Cohort 2](https://github.com/FedRAMP/roadmap/issues/93)
+
+Latest comment (2026-02-02):
+
+During the past 2 weeks, we spent a total of ~20 hours collaborating with Cohort 2 participants. 3 of them have completed review of all KSIs with us, and 7 of them will be finishing up shortly.
+
+### OPEN Issue [#79: Agency Requirements and Guidance](https://github.com/FedRAMP/roadmap/issues/79)
+
+Latest comment (2026-02-02):
+
+This continues to slip as less critical than many of the other activities we are working towards, but is quickly approaching the point where it will be completely necessary.
+
+### CLOSED Issue [#34: 20x Phase 2 Pilot - Cohort 1](https://github.com/FedRAMP/roadmap/issues/34)
+
+Latest comment (2026-02-02):
+
+All 3 participants in Cohort 1 have submitted packages - I'm closing this particular item to include their final review and authorization in the overall Phase 2 work.
+
+### OPEN Issue [#32: Agency AI Adoption Pilot for 20x](https://github.com/FedRAMP/roadmap/issues/32)
+
+Latest comment (2026-02-02):
+
+All 3 prioritized providers are currently under review.
+
+
 ## Sprint 17 (2026-01-05 to 2026-01-16)
 
 ### OPEN Issue [#101: FRMR Docs Overhaul](https://github.com/FedRAMP/roadmap/issues/101)
