@@ -1,5 +1,3 @@
-![Archived FedRAMP Public Roadmap](https://github.com/user-attachments/assets/3d70192d-1db3-4fd2-9a18-f369a697aa26)
-
 This public FedRAMP roadmap has been deprecated in favor of holistic communication efforts
 from FedRAMP in other areas, including:
 
